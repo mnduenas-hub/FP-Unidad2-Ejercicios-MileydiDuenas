@@ -4,7 +4,7 @@
 **NRC:** 37712
 **Carrera:** Tecnologías de la Información - ITIN
 **Asignatura:** Fundamentos de Programación B
-**Fecha:** miércoles 18 de noviembre de 2026
+**Fecha:** Viernes 20 de noviembre de 2026
 
 ## Resumen
 
