@@ -35,4 +35,4 @@ En estas prácticas aprendí a armar pequeñas partes de un programa y a darles 
 - **S12_Ej02_DadosSuman7.java:** hice 1000 lanzamientos de dos dados con Random y mostré cuántas veces suman 7 y su porcentaje. 
 - **S12_Ej03_ValidarPassword.java:** validé una contraseña de mínimo 8 caracteres, con una mayúscula y un dígito, usando Character. Falta comprobarlo.
 - **S12_Ej04_ContarVocales.java:** conté las vocales de un texto, mayúsculas y minúsculas, con String y Character. Falta comprobarlo.
-- **S12_Ej05_Codigo6Caracteres.java:** generé un código de 6 caracteres con 3 letras y 3 dígitos aleatorios. Falta comprobarlo.
+- **S12_Ej05_Codigo6Caracteres.java:** generé un código de 6 caracteres con 3 letras y 3 dígitos aleatorios. Falta comprobarlo. 
